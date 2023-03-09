@@ -1,0 +1,8 @@
+<style> .select-1 {
+appearance: none;
+  background-image: url("https://uploads-ssl.webflow.com/640060400b4a444a9c98826c/6409b43576b5be0c84ad9b63_chevron-down_1.svg");
+  background-repeat: no-repeat;
+  background-position: right 10% top 50%;
+  background-size: 10% auto;
+} 
+</style>
